@@ -1,3 +1,3 @@
 # Pulsing ball
 
-A pusling ball, or circle. 
+A pulsating ball, or circle. 
